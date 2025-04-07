@@ -1,0 +1,6 @@
+boston_311_data.csv
+
+.DS_Store
+/dist/
+node_modules/
+yarn-error.log
